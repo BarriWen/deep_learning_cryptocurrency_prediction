@@ -4,3 +4,4 @@ tensorflow_decision_forests~=1.2.0
 pandas
 numpy
 matplotlib
+seaborn
