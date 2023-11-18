@@ -1,6 +1,6 @@
-# Deep Learning Student Performances
+# Predict Ethereum price using Neural Network
 
-This project is focused on predicting student performance based on deep learning models.
+Predicting future Ethereum prices with LSTM
 
 ## Setting up the Development Environment
 
