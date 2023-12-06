@@ -1,6 +1,7 @@
 # Predict Ethereum price using Neural Network
 
 Predicting future Ethereum prices with LSTM.
+
 Latest: improved_prediction.ipynb
 
 ### Model Improvement (as of 2023-12-05)
