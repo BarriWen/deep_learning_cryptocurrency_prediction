@@ -2,9 +2,7 @@
 
 ## Predicting Future Ethereum Prices with LSTM
 
-Predicting future Ethereum prices with LSTM.
-
-Latest: improved_prediction.ipynb
+Latest version: improved_prediction.ipynb
 
 ### Model Improvement (as of 2023-12-05)
 
