@@ -1,11 +1,19 @@
 # Predict Ethereum price using Neural Network
 
 Predicting future Ethereum prices with LSTM.
-The improved model (2023-12-05) now has: 
-Mean Absolute Error (MAE): 0.005368011520480294
-Mean Squared Error (MSE): 4.905895251991975e-05
-R-squared Score (R2): 0.9849546694121026
+
+### Model Improvement (as of 2023-12-05)
+
+The improved model now yields impressive results:
+
+- Mean Absolute Error (MAE): 0.005368011520480294
+- Mean Squared Error (MSE): 4.905895251991975e-05
+- R-squared Score (R2): 0.9849546694121026
 ![Alt Text](https://github.com/BarriWen/deep_learning_cryptocurrency_prediction/blob/main/improved%20output.png)
+
+These metrics demonstrate the accuracy and effectiveness of our neural network model in predicting Ethereum prices.
+
+Stay tuned for further updates and enhancements to our Ethereum price prediction model.
 
 ## Setting up the Development Environment
 
