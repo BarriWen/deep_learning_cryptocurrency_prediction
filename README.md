@@ -1,5 +1,7 @@
 # Predict Ethereum price using Neural Network
 
+## Predicting Future Ethereum Prices with LSTM
+
 Predicting future Ethereum prices with LSTM.
 
 Latest: improved_prediction.ipynb
